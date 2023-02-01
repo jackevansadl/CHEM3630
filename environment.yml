@@ -1,0 +1,13 @@
+name: ntbk_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9       
+  - ase          
+  - psi4
+  - numpy
+  - pandas
+  - nglview
+  - matplotlib
+  - texlive-core
